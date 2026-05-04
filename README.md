@@ -29,7 +29,7 @@ Enables full control over session parameters including study time, break duratio
 
 ### Session Logging
 
-<img width="643" height="814" alt="Session logging output" src="https://github.com/user-attachments/assets/cf31dc30-c0a3-4e3e-a81a-6719fbf78e7a" />
+<img width="643" height="671" alt="readme user1" src="https://github.com/user-attachments/assets/e667d732-b92d-4242-bf08-720ca5ef8b4a" />
 
 Displays stored session data including completed sessions, study duration, break time, and task tracking for each day.
 
@@ -45,7 +45,7 @@ Shows daily goal tracking with a progress bar that updates dynamically based on 
 
 ### Weekly Statistics
 
-<img width="1067" height="662" alt="Weekly statistics output" src="https://github.com/user-attachments/assets/9dcf011f-64a2-4fc6-85a8-5cd78e9afa5e" />
+<img width="943" height="423" alt="user readme2" src="https://github.com/user-attachments/assets/af55088e-3612-4ea2-8ce2-cec7805339c0" />
 
 Displays a summary of sessions, total study time, and break durations over the week.
 
