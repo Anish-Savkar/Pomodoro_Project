@@ -58,7 +58,7 @@ Displays a summary of sessions, total study time, and break durations over the w
 ### Compile
 ```bash
 g++ main.cpp pomodoro.cpp -o pomodoro -lwinmm
-
+```
 ## Author
 Anish Savkar
 GitHub: Anish-Savkar
