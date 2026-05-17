@@ -60,5 +60,5 @@ Displays a summary of sessions, total study time, and break durations over the w
 g++ main.cpp pomodoro.cpp -o pomodoro -lwinmm
 ```
 ## Author
-Anish Savkar
+Anish Savkar  
 GitHub: Anish-Savkar
