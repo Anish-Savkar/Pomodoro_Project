@@ -1,6 +1,7 @@
 # C++ Pomodoro Timer
 
 A feature-rich C++ command-line Pomodoro timer with customizable sessions, sound notifications, daily logging, progress tracking, pause/resume functionality, and weekly summaries, built using a modular and scalable file-based architecture.
+-Productivity app built by Anish Savkar.
 
 ---
 
@@ -56,3 +57,7 @@ Displays a summary of sessions, total study time, and break durations over the w
 ### Compile
 ```bash
 g++ main.cpp pomodoro.cpp -o pomodoro -lwinmm
+
+## Author
+Anish Savkar
+GitHub: Anish-Savkar
